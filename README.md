@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jesie007
-- 👀 I’m interested in UI/US design
+- 👀 I’m interested in UI/UX design
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me www.linkedin.com/in/qian-zhang-326502248 

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me www.linkedin.com/in/qian-zhang-326502248 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love sci-fi movies and feel free to recommend some movies.
+- ⚡ Fun fact: I am also a teacher
 
 <!---
 Jesie007/Jesie007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
